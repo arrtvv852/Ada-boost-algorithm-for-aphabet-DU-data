@@ -23,5 +23,3 @@ If you have done all the cross validation progress, the following will be shown.
 You can choose to see the result then the result will be printed as following: <br />
 ![image](/readme_img/p10.png)<br />
 3 is for saving detail result data.
-## Reference
-Platt, John. Fast Training of Support Vector Machines using Sequential Minimal Optimization, in Advances in Kernel Methods – Support Vector Learning, B. Scholkopf, C. Burges, A. Smola, eds., MIT Press (1998).
